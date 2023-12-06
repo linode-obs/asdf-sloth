@@ -8,9 +8,7 @@ Check out the [asdf](https://github.com/asdf-vm/asdf) readme for instructions.
 ## Install
 
 ```shell
-asdf plugin add sloth
-# or
-asdf plugin add sloth https://github.com/slok/asdf-sloth.git
+asdf plugin add sloth https://github.com/linode-obs/asdf-sloth.git
 ```
 
 ## Usage
